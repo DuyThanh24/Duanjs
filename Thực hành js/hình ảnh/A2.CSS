@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+.nen {
+    background-image: url("https://wallpaperaccess.com/full/2892649.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%; /* Chia thành hai cột bằng nhau */
+    align-items: center; /* Căn giữa theo chiều dọc */
+    justify-content: center;
+}

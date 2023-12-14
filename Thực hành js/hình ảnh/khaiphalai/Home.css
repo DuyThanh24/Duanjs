@@ -1,0 +1,544 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Dhurjati&family=Holtwood+One+SC&family=Monomaniac+One&family=Oswald:wght@500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dhurjati&family=Holtwood+One+SC&family=Monomaniac+One&family=Oswald:wght@500;700&display=swap');
+
+
+@media only screen and (min-width:64rem) {
+  #lacloai {
+    display: none;
+  }
+  .chuyentrang {
+    display: ;
+  }
+
+  #phanheart {
+    background-color: rgb(71, 190, 229);
+    color: rgb(255, 255, 255);
+    text-align:center;
+    margin: 0rem;
+  }
+ 
+  .navbar-brand {
+    font-family: font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-size: 2.3rem;
+    margin-left:2rem;
+    color: rgb(255, 255, 255);
+  }
+  #navbarTogglerDemo03 a {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #ffffff;
+    margin-right: 0.5rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+  }
+  #navbarTogglerDemo03  {
+    text-align: center;
+    margin-left: 7rem;
+    
+  }
+  #marketing {
+    background: url('https://3.bp.blogspot.com/-Fo-6D2UixSE/W6EYIkZOq4I/AAAAAAAAWc0/VUcZxbxVb-EILlCDTc1dgF2gV04GVc6aQCLcBGAs/s1600/christmas-wishes-images.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #ffffff;
+    height: 10rem;
+    margin-top: 5rem;
+    height: 40rem;
+  }
+  #khoahoc {
+    height:100px;
+    background-color: rgb(255, 255, 255);
+  }
+ 
+  .chuongtrinhhoc h1 {
+    font-size: 2.2rem !important;
+    font-family:'Oswald', sans-serif;
+    color: #5c5c5d;
+    font-weight:bold;
+    margin-top:1rem;
+    text-align:center;
+    margin-bottom:1rem;
+  }
+
+  #boloc {
+    margin-top: 6rem;
+    padding: 1rem;
+    
+  }
+ 
+  #khoahocbosung h6 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  #khoahocbosung p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 0.9rem;
+  }
+  #khoahocbosungbutton {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 0.5rem;
+  }
+  #gioithieutrungtam h3 {
+    font-family: 'Oswald', sans-serif;
+    color: #858587;
+    font-size: 2.3rem;
+    font-weight: bold;
+    margin-top: 6rem;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  #gioithieutrungtam P {
+    color: #636363;
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-align: center;
+  }
+   #gioithieutrungtam_one {
+   border-radius:20px;
+    width: 80%;
+    background: linear-gradient(to right, #41c2cb, #0a9fc4) !important; 
+   }
+
+   .chuongtrinhhoc h1 {
+    font-size: 2.2rem !important;
+    font-family:'Oswald', sans-serif;
+    color: #5c5c5d;
+    font-weight:bold;
+    margin-top:1rem;
+    text-align:center;
+    margin-bottom:1rem;
+  }
+  .card {
+   padding:1rem;
+   height: 28rem;
+   background-color:rgb(255, 255, 255);
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+    
+  .card shadow img {
+    height:10rem;
+  }
+ 
+  footer {
+    padding: 4rem;
+  }
+  footer h4 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  footer p {
+    font-size: 0.8rem;
+    margin-left:18rem;
+    font-family: 'Times New Roman', Times, serif;      
+  }
+  
+  
+  #marketing_02 {
+    background: url('https://blog.pearlacademy.com/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-09-at-10.29.34-AM.jpeg') no-repeat center center fixed;
+    background-size: cover;
+    color: #ffffff;
+    margin-top: 5rem;
+    height: 31rem;
+  }
+
+  #accordionPanels {
+   
+
+  }
+  #accordion-header button {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+  }
+  #chuyentrangtext1 h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #086778;
+    
+  }
+  #chuyentranghinh2 img {
+    margin-top: 2rem;
+    height: 22rem;
+    width: 90%;
+  }
+  #accordionPanels {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+  #chuyentrangtext1 h3 {
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #086778;
+    margin-bottom: 2rem;
+    padding-left: 5rem;
+    
+  }
+  .thongtinchitiet h3 {
+    margin-top: 3rem;
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #0d5270;
+
+  }
+  #accordionPanels {
+    margin-left: 0.8rem;
+    text-align: center;
+    width: 35rem;
+  }
+
+#chuyentrangtext2 h4 {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  padding-left: 2rem;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #0d5270;
+}
+#chuyentrangtext2 p {
+  font-size: 0.8rem;
+  width: 90%;
+  padding-left:2.1rem;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #0d5270;
+}
+#sanphamhocvien h3  {
+  margin-top: 4rem;
+  font-size: 1.5rem;
+  text-align: center;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #0d5270;
+}
+.boxchua {
+  height: 5rem;
+  border-radius: 0.8rem;
+  background: linear-gradient(to right, #f0f2f2, #e4e7e8) !important; 
+  margin-top: 2rem;
+  height: 20rem;
+  text-align: center;
+}
+
+}
+
+/* @media screen and (min-width: 46.25rem) and (max-width:64rem) {
+  
+ 
+  #card {
+    padding: 0rem;
+  }
+  #boloc {
+    margin-top: 4rem;
+    padding: 0rem;
+  }
+  #marketing {
+    background: url('https://i.pinimg.com/564x/35/57/0b/35570b7aa7479da468c79c85c40c7014.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  #buc {
+    display: none;
+  }
+  #timkiem {
+    display: none;
+  }
+  .tab {
+    margin-right: 3rem;
+  }
+  #lacloai {
+    
+ 
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Oswald', sans-serif;
+  }
+  #menu {
+    display: none;
+  }
+  .navbar-toggler-icon {
+    background-color: #ffffff;
+  }
+  li {
+    height: 4rem;
+    color: #444242;
+    font-size: 1.3rem;
+    align-items: center;
+    flex-direction: row;
+  }
+  li a {
+    margin-left: 2rem;
+  }
+  .containerlist-group {
+    height: 55rem;
+    width: 50%;
+    border-radius: 25px;
+    margin-left: 1rem;
+    padding-top: 6rem;
+    text-align: center;
+    background-color: rgb(137, 156, 156);
+  }
+  .card {
+    padding:0.8rem;
+    height: 25rem;
+    background-color:rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   }
+   .card img {
+     height:14rem;
+   }
+  .chuongtrinhhoc h1 {
+    font-family: 'Oswald', sans-serif;
+    color: #3b3e40;
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-top: 1rem;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  #mimi {
+    width: 100% !important;  
+  }
+   #gioithieutrungtam_one {
+    border-radius:20px;
+    width: 80%;
+    background: linear-gradient(to right, #41c2cb, #0a9fc4) !important;
+   }
+   #gioithieutrungtam h3 {
+    font-family:'Oswald', sans-serif;
+    color: #858587;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 5rem;
+    text-align: center;
+  }
+  #gioithieutrungtam P {
+    color: #636363;
+    font-size: 0.4rem;
+    font-weight: bold;
+    text-align: center;
+  }
+  footer {
+    padding: 1.8rem;
+  }
+  footer h4 {
+    font-size: 1.1rem;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  footer p {
+    font-size: 0.5rem;
+    font-family: 'Times New Roman', Times, serif;      
+  }
+}
+ */
+
+
+
+
+
+@media only screen and (max-width:46.25rem) {
+  #phanheart input {
+    display: none;
+  }
+  #card {
+    padding: 0rem;
+  }
+  #boloc {
+    margin-top: 4rem;
+    padding: 0rem;
+  }
+  #marketing {
+    background: url('https://i.pinimg.com/564x/86/dc/3e/86dc3e9f5dbcef2f0a7fcc0e39948e9e.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    height: 32rem;
+    margin-top:3.6rem;
+  }
+  #buc {
+    display: none;
+  }
+  #timkiem {
+    display: none;
+  }
+  .tab {
+    margin-right: 3rem;
+  }
+  #lacloai {
+    background-color: rgb(71, 190, 229);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.3rem;
+    text-align: center;
+  }
+  #container-fluid {
+    font-size: 1.3rem;
+  }
+  #menu {
+    display: none;
+  }
+  #luachon  {
+    display: flex;
+    justify-content: first baseline;
+  }
+  .navbar-toggler {
+    font-size: 1rem;
+  }
+  .navbar-toggler-icon {
+    font-size: 1rem;
+  }
+  
+  .chuongtrinhhoc h1 {
+    font-family: 'Oswald', sans-serif;
+    color: #3b3e40;
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-top: 1rem;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  #mimi {
+    width: 90% !important;  
+    margin-left: 1rem;
+  }
+   #gioithieutrungtam_one {
+    border-radius:20px;
+    width: 80%;
+    background: linear-gradient(to right, #41c2cb, #0a9fc4) !important;
+   }
+   #gioithieutrungtam h3 {
+    font-family:'Oswald', sans-serif;
+    color: #858587;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 5rem;
+    text-align: center;
+  }
+  #gioithieutrungtam P {
+    color: #636363;
+    font-size: 0.4rem;
+    font-weight: bold;
+    text-align: center;
+  }
+  footer {
+    padding: 1.7rem;
+  }
+  footer h4 {
+    font-size: 1.1rem;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  footer p {
+    font-size: 0.5rem;
+    font-family: 'Times New Roman', Times, serif;      
+    padding-left: 1.5rem;
+  }
+  .chuyentrang {
+    display: none;
+  }
+  
+  #marketing_02 {
+    background: url('https://i.pinimg.com/564x/11/cc/d5/11ccd5ea4c778c8f716d1081fde6e429.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #ffffff;
+    height: 5rem;
+    margin-top: 5rem;
+    height: 40rem;
+  } 
+  #accordionPanels {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+  }
+  #chuyentrangtext1 h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #086778;
+    margin-bottom: 2rem;
+    
+  }
+  #accordionPanels {
+    text-align: center !important;;
+   
+    width: 17rem;
+  }
+  .thongtinchitiet h4 {
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    width: 90%;
+    padding-left: 2rem;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #0d5270;
+
+  }
+
+#chuyentrangtext2 h4 {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  width: 90%;
+  padding-left: 2rem;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #0d5270;
+}
+#chuyentrangtext2 p {
+  font-size: 0.8rem;
+  width: 90%;
+  padding-left:2.1rem;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #0d5270;
+}
+.thongtinchitiet h3 {
+  margin-top: 3rem;
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #0d5270;
+
+}
+ h3  {
+  margin-top: 4rem;
+  font-size: 1.5rem;
+  text-align: center;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #0d5270;
+}
+
+.boxchua {
+  height: 5rem;
+  border-radius: 0.8rem;
+  background: linear-gradient(to right, #f0f2f2, #e4e7e8) !important; 
+  margin-top: 2rem;
+  height: 20rem;
+  margin-left: 1rem;
+  width: 90%;
+}
+}

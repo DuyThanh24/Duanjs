@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+.nen {
+    background-image: url("https://wallpaperaccess.com/full/2892649.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%; /* Chia thành hai cột bằng nhau */
+    align-items: center; /* Căn giữa theo chiều dọc */
+    justify-content: center;
+}
+
+#thanh {
+    max-width: 190%;
+    height: 500px;
+    padding: 10px 40px;
+    border-radius: 25px;
+    backdrop-filter: blur(100vh);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    margin-left: 320px;
+}
+#thanh img {
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 4);
+    height: 450px;
+
+}

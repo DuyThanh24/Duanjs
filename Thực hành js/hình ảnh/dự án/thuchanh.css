@@ -1,0 +1,410 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.box {
+    display: none;
+}
+.row {
+    display: flex !important;
+}
+img {
+    height: 100%;
+    width: 100%;
+}
+/* .laptop {
+ background-color: rgb(26, 25, 25);
+}
+p {
+    margin-bottom: 0 !important;
+}
+    height: 100%;
+    width: 100%;
+   
+}img {
+
+.container-fluid {
+    display: flex;
+}
+.laptop {
+    background-color: rgb(26, 25, 25);
+    height: 100vh;
+    width: 20%;
+    color: aliceblue;
+    padding: 0 20px;
+   }
+.thanh {
+    position: relative;
+}
+.thanh h3 {
+    text-align: center;
+}
+.icon {
+    position: absolute;
+    top:10px;
+    right: -36px;
+    
+}
+.icon i {
+    
+    padding: 10px;
+   background-color: rgb(244, 10, 10);
+   color: aliceblue;
+   border-radius: 50%;
+}
+.content p {
+    padding: 0 !important;
+}
+.content {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    
+} */
+
+
+@media only screen and (min-width: 1024px) {
+    #chutrang {
+        display: flex;
+    }
+    .open {
+        display: none;
+    }
+    #mobi {
+        display: none;
+    }
+    
+
+    .left_laptop {
+        background-color: rgb(65, 61, 61);
+        height: 100vh;
+        color: aliceblue;
+        padding: 0 20px;
+        position: relative;
+    }
+
+
+    .interview {
+        padding-top: 12px;
+    }
+
+    .interview h5 {
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+    }
+    .thanh {
+        position: absolute;
+        left: 209px;
+        top: 12px;
+        height: 34px;
+        width: 34px !important;
+        background-color: #ff0707;
+        text-align: center;
+        border-radius: 50%;
+       
+    }
+    #open {
+        position: absolute;
+        left: 123px;
+        top: 6px;
+        height: 27px;
+        width: 27px;
+        background-color: #6607ff;
+        text-align: center;
+        border-radius: 50%;  
+        display: none;    
+    }
+    #open {
+        font-size: 17px;
+    }
+   
+ 
+
+    .commit {
+        display: flex;
+        justify-content: space-around;
+        font-family: 'Times New Roman', Times, serif;
+
+    }
+
+    .commit i {
+        padding: 0px;
+    }
+
+    .conform {
+        display: flex;
+        padding: 15px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+    }
+
+    .conform i {
+        margin-right: 40px;
+        padding: 0px;
+    }
+
+    .left_laptop p {
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 15px;
+        font-weight: bold;
+        padding-top: -10px;
+    }
+
+    .box_res {
+        display: flex;
+        height: 45px;
+        width: 971px;
+        background-color: rgb(255, 250, 250);
+        padding-top: 10px;
+        margin-bottom: 10px;
+        margin-left:27px;
+        padding-right: 10px;
+    }
+
+    .conduct {
+        font-size: 35px;
+        color: #524646;
+        margin-left: 20px;   
+        margin-top: -20px;
+    }
+
+    .capture {
+        display: flex;
+        text-align: center;
+        margin-top: -13px;
+        margin-left: 610px;
+       
+    }
+
+    .conduct i {
+        font-size: 24px;
+        padding-right: 20px;
+        margin-bottom: 500px;
+        
+    }
+
+    .ima {
+        background-color: bisque;
+        height:40px;
+        width: 40px;
+        border-radius: 50%;
+        margin: 6px;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .ima img {
+        height: 50px;
+        width: 50px;
+        object-fit: cover;
+    }
+
+    #comy {
+        height: 30px;
+        width: 70px;
+        margin: 12px;
+    }
+
+    #namebox{
+        display: flex;
+        justify-content: space-between;
+        height: 40px;
+        width: 971px;
+        text-align: center;
+        background-color: rgb(255, 250, 250);
+        margin: 10px;
+        margin-left: 27px;
+    }
+
+    .conduct_02 {
+        padding-right: 20px;
+        margin-left: 20px;
+    }
+
+    .conduct_02 p {
+        font-size: 17px;
+        font-weight: bold;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .captures  {
+        display: flex;
+        margin-right: 45px;
+
+
+    }
+
+    .captures p {  
+        font-size: 17px;
+        padding-left: 30px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bold;
+    }
+
+    .shadow {
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    .shadow span{
+         padding: 5px;
+        height: 10px;
+        background-color: #ff0707;
+        color: white;
+        border-radius: 50%;
+    }
+    
+    .phanhinh  {
+        margin-top: 10px;
+         height: 200px;
+    }
+
+    .phannut {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 15px;
+    }
+
+    .nut {
+        height: 35px;
+        width: 75px;
+        background-color: rgb(253, 95, 3);
+        border-radius: 5px;
+        display: flex;
+        color: #ffffff;
+        text-align: center;
+        padding: 7px;
+    }
+
+    .nut p {
+        font-size: 14px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .nut i {
+        font-size: 14px;
+        margin-right: 6px;
+        margin-top: 1.5px;
+    }
+
+    .nutt {
+        height: 35px;
+        width: 75px;
+        background-color: rgb(0, 178, 233);
+        border-radius: 5px;
+        display: flex;
+        color: #ffffff;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .nutt p {
+        font-size: 14px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .nutt i {
+        font-size: 14px;
+        margin-right: 6px;
+        margin-top: 1.5px;
+    }
+
+    .boking {
+        height: 35px;
+        width: 95px;
+        background-color: rgb(252, 186, 44);
+        border-radius: 5px;
+        display: flex;
+        color: #ffffff;
+        text-align: center;
+        padding: 7px;
+    }
+
+    .boking p {
+        font-size: 14px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .boking i {
+        font-size: 14px;
+        margin-right: 6px;
+        margin-top: 3px;
+    }
+    #phanban {
+        display: none;
+    }
+    #search {
+        justify-content: space-between;
+        padding: 10px;
+        height:53px ;
+    }
+    form {
+        width: 300px;
+    }
+   button {
+        width: 120px;  
+    }
+    #searchs {
+        margin-left: 18px;
+        font-size: 15px;
+    }
+    #searchs i {
+        font-size: 13px;
+        margin-top: 4px;       
+    }
+    #searchs p {
+        font-size: 15px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            
+    }
+    #searchss  p {
+        font-size: 14px;
+        font-weight: bold;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    #searchss  {
+        font-size: 13px;
+        font-weight: bold;
+        height: 32px;
+        margin-bottom:4px;
+        width: 60px;
+    }
+    #searchss i {
+        font-size: 13px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+    
+    #tablesanpham {
+        font-size: 16px;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       text-align: center;
+    }
+    #tablesanpham th, #tablesanpham td {
+        border-right: 2px solid #ddd;
+        padding: 8px; /* Thêm padding để tăng độ rõ ràng */
+    }
+    
+    #tablesanpham th:last-child, #tablesanpham td:last-child {
+        border-right: 2px; /* Loại bỏ đường gạch dọc cho cột cuối cùng */
+    }
+    
+    
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+
+
+
+}
+
+@media only screen and (max-width: 767px) {
+
+
+
+
+}

@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+.card:hover {
+    transform: scale(1.1);
+    transition: transform 0.1s ease; 
+    background-color: rgba(13, 10, 187, 0.927);
+    color: rgb(255, 255, 255);
+}
+.card:hover .btn {
+    transform: scale(1.1); /* Kích thước sẽ tăng lên 1.1 lần khi hover */
+    box-shadow: 0 0 9px rgba(255, 255, 255, 0.9);
+}
+#but {
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
